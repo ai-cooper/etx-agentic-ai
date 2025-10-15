@@ -1,5 +1,5 @@
 
-= ETX Agentic AI Hackathon Repository
+= ETX Agentic AI Hackathon Repository.
 
 == Overview
 
